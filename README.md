@@ -2,6 +2,8 @@
 
 O **Gallery Pro** é uma aplicação web moderna que oferece uma experiência completa de gerenciamento de galeria de imagens. Com interface intuitiva e recursos avançados, permite visualizar, filtrar, favoritar e fazer upload de imagens de forma eficiente.
 
+<img width="1123" height="950" alt="Gallery" src="https://github.com/user-attachments/assets/d233b451-db3b-4462-8617-444f1ddeabf6" />
+
 ## ✨ Funcionalidades
 
 ### 🖼️ Gestão de Imagens
