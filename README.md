@@ -43,9 +43,3 @@ O **Gallery Pro** é uma aplicação web moderna que oferece uma experiência co
 - Material-UI (MUI)
 - Zustand
 - CSS-in-JS (Emotion)
-
-### **Desenvolvimento**
-
-- React 18
-- ESLint
-- Hot Reload
